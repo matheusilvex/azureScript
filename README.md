@@ -39,7 +39,7 @@ Antes de executar o script, certifique-se de que você tem:
 3. Edite o script `azure_validation_scripts.ps1` e insira os IDs das assinaturas que deseja validar.
 4. Execute o script no PowerShell:
    ```sh
-   .\azure_validation_scripts.ps1
+   .\scriptAzureDiaDia.ps1
    ```
 
 ## Contribuições
